@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Le problème de transfert}{4}{0}{1}
+\beamer@sectionintoc {2}{Les caractéristiques du problème de transfert }{5}{0}{2}
+\beamer@sectionintoc {3}{Application 1 : Les mouvements plans }{6}{0}{3}
+\beamer@sectionintoc {4}{Application 2 : La notion de centre de gravité en Physique }{10}{0}{4}
+\beamer@sectionintoc {5}{Application 3 : Le travail d'une force en physique }{13}{0}{5}
